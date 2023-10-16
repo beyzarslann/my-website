@@ -28,6 +28,12 @@ function GithubRepos() {
             <p> Java, Spring Boot, Angular <br /> Kullanıcılardan isim ve harcama bilgilerini alıp ortalama ve toplam hesabı hesaplayıp kişi başına düşen hesabın dolar ve tl cinsinden hesaplamasını yapan bir uygulama. </p>
           </div>
         </div>
+        <div className='repo'>
+          <div className='innerRepo'>
+          <h1> <a href='https://github.com/beyzarslann/my-website'> My-Website </a> </h1>
+            <p> Html, Css, Javascript, React <br /> Kişisel Portfolyo Sitem </p>
+          </div>
+        </div>
       </div>
     </div>
   )
