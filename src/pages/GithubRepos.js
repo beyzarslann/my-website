@@ -13,9 +13,9 @@ function GithubRepos() {
         <div className='repo'>
           <div className='innerRepo'>
             <h1> <a href='https://github.com/beyzarslann/TheWeather'> TheWeather </a> </h1>
-            <p> Html, Css, JavaScript <br /> Hava Durumu Uygulaması. Api entegrasyonu ile yapıldı.</p>
+            <p> Html, Css, JavaScript <br /> Hava Durumu Uygulaması. Api entegrasyonu ile yapıldı. <br /> <a href='https://the-weather-woad.vercel.app/' target='blank'> the weather uygulamasını gör </a> </p>
           </div>
-        </div>
+        </div>  
         <div className='repo'>
           <div className='innerRepo'>
             <h1> <a href='https://github.com/beyzarslann/Spring-CRUD-Example'> SpringBootCRUD  </a> </h1>

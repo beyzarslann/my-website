@@ -43,6 +43,8 @@ function Hakkimda() {
             <a href="/images/java-springboot.jpg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
                  - Genç Mühendisler Topluluğu Katılım Belgesi - 2021 <br/>
             <a href="/images/sertifika.png" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+                 - BTK Akademi - Versiyon Kontrolleri: Git ve GitHub Katılım Sertifikası - 2023  <br/>
+            <a href="/images/git-github.jpg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
  
             </p>
           </li>
