@@ -34,6 +34,18 @@ function GithubRepos() {
             <p> Html, Css, Javascript, React <br /> Kişisel Portfolyo Sitem </p>
           </div>
         </div>
+        <div className='repo'>
+          <div className='innerRepo'>
+          <h1> <a href='https://github.com/beyzarslann/DunyaninYediHarikasi'> DunyaninYediHarikasi </a> </h1>
+            <p> Html, Css <br /> Dünyanın 7 Harikası</p>
+          </div>
+        </div>
+        <div className='repo'>
+          <div className='innerRepo'>
+          <h1> <a href='https://github.com/beyzarslann/AngularCardProject'> Angular Card Project </a> </h1>
+            <p> Angular <br /> Angular Card Project </p>
+          </div>
+        </div>
       </div>
     </div>
   )
