@@ -46,6 +46,12 @@ function GithubRepos() {
             <p> Angular <br /> Angular Card Project </p>
           </div>
         </div>
+        <div className='repo'>
+          <div className='innerRepo'>
+          <h1> <a href='https://github.com/beyzarslann/AngularToDoList'> Angular To Do List </a> </h1>
+            <p> Angular <br /> Angular To Do List </p>
+          </div>
+        </div>
       </div>
     </div>
   )
