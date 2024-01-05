@@ -37,18 +37,25 @@ function Hakkimda() {
             <h3> Sertifikalar </h3>
             <p>  - Java ile Oyun Programlama Hackhatonu - 2023  <br/>
             <a href="/images/hackhathon.jpeg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+
             - BTK Akademi - Versiyon Kontrolleri: Git ve GitHub Katılım Sertifikası - 2023  <br/>
             <a href="/images/git-github.jpg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+
                  - BTK Akademi - Angular ile Web Programlama Katılım Sertifikası - 2023  <br/>
             <a href="/images/angular.jpg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+
+                 - Turkcell Geleceği Yazanlar - React 101 eğitimi başarı belgesi - 2023 <br/>
+            <a href="/images/react101.jpg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+
                  - Kodluyoruz Hi-Kod Front End Atölyesi - 2023  <br/>
             <a href="/images/hikodsertifika.png" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+
                  - Archi's Academy - Java Spring Boot Workshop - 2023 <br/>
             <a href="/images/java-springboot.jpg" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
+
                  - Genç Mühendisler Topluluğu Katılım Belgesi - 2021 <br/>
             <a href="/images/sertifika.png" target="_blank">Sertifikayı Görmek İçin Tıklayın</a> <br/>
-          
- 
+                
             </p>
           </li>
         </ol>
